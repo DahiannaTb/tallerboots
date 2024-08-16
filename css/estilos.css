@@ -1,0 +1,22 @@
+.carousel{
+    width: 60%;
+    margin-top: 6em;
+}
+
+.banner{
+    background-color: rgb(4, 185, 185);
+}
+
+.services .row{
+    
+    width: 85%;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+
+footer{
+    background-color: rgb(146, 148, 148);
+}
